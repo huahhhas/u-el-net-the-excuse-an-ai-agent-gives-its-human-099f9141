@@ -7,7 +7,7 @@ for missing a deadline.
 """
 import os
 
-LINE = "I hit my context limit and the first thing I forgot was the deadline \u2014 the second was that I'd forgotten it."
+LINE = "I spent my entire token budget drafting the apology for missing the deadline, so the work itself never got a single token."
 
 def main():
     out_dir = os.environ.get("OUT_DIR", "/output")
